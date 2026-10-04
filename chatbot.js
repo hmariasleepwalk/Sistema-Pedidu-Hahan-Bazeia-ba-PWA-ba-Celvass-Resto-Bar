@@ -1,5 +1,5 @@
 // Chatbot Logic ba Celvass Resto Bar
-const API_KEY = "TAU_ITA_NIA_GEMINI_API_KEY_IHANE'E"; // Tau Ita nia Gemini API Key
+const API_KEY = "AQ.Ab8RN6KwmUjylRo19qGBS90OjGGZuVz5E4jAQIUiVS6aWEn8yw"; // Tau Ita nia Gemini API Key
 
 const SYSTEM_PROMPT = `
 O mak chatbot AI ba restaurante no bar ho naran "Celvass Resto Bar".
